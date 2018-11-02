@@ -7,4 +7,6 @@ La prueba consta de dos proyectos:
 
 2. Una aplicacion web realizada en JSP con el framework primefaces que consume el servicio web(Incompleta)
 
-Para desplegar el proyecto, es necesario adjuntar la base de datos
+Para desplegar el proyecto, es necesario crear el esquema de la base de datos en la version de apache derby que viene incluida en netbeans, sin embargo adjunto la que yo use, y se puede agregar sin problemas a netbeans.
+
+Una vez hecho esto, se debe compilar y ejecutar los servicios web, y posteriormente la aplicacion
